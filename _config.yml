@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Documentation
-email: your-email@example.com
+title: AtomEngine Documentation
+email: atomorganization@atom.com
 description: >- # this means to ignore newlines until "baseurl:"
  A game engine in C++ is a powerful framework designed to facilitate
  the development of video games by providing a suite of tools,
  libraries, and systems that handle common game-related tasks.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://atomorganization.github.io/AtomDoc/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: atomengine
-github_username:  atomengine
+url: "https://atomorganization.github.io/AtomDoc" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: AtomOrganization
+github_username:  AtomOrganization
 
 # Build settings
 theme: minima
