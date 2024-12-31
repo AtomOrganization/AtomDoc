@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
  A game engine in C++ is a powerful framework designed to facilitate
  the development of video games by providing a suite of tools,
  libraries, and systems that handle common game-related tasks.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://atomorganization.github.io/AtomDoc" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/AtomDoc" # the subpath of your site, e.g. /blog
+url: "https://atomorganization.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AtomOrganization
 github_username:  AtomOrganization
 
