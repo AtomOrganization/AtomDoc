@@ -4,20 +4,19 @@ title:  "En avant 2025, et les bonnes résolutions. 🚀"
 date:   2024-12-31 17:00:00 +0100
 categories: AtomOrganization update
 ---
-# En avant 2025, et les bonnes résolutions 🚀
+Je suis ravi d’annoncer le début du développement de mon propre moteur de jeu en C++, **l'AtomEngine** ⚛️ !  
 
-Je suis ravi d’annoncer le début du développement de mon **propre moteur de jeu en C++** ! 🎮  
 Pour le moment, il sera orienté **2D** et conçu sur mesure pour donner vie à un jeu qui me trotte dans la tête depuis un moment.
 
-## Objectifs du projet 🎯
-1. **Apprendre le C++** : Ce projet est avant tout un voyage d’apprentissage pour approfondir ma maîtrise du C++.
-2. **Créer un moteur de jeu** : Développer un moteur de jeu 2D fonctionnel et personnalisable, entièrement à partir de zéro.
-3. **Développer un jeu** : Utiliser ce moteur pour réaliser un jeu.
+## Objectifs du projet 🎯  
+1. **Apprendre le C++** : Ce projet est avant tout une opportunité pour approfondir ma maîtrise du C++.  
+2. **Créer un moteur de jeu** : Développer un moteur de jeu 2D fonctionnel, entièrement conçu à partir de zéro.  
+3. **Développer un jeu** : Utiliser ce moteur pour réaliser un jeu original.  
 
-## Suivi des progrès 📅
-Je partagerai régulièrement des mises à jour sur le processus de développement, notamment :
-- Les étapes clés atteintes 🏁
-- Les défis rencontrés et leurs solutions 💡
-- Des extraits de code et leurs explications 📝
+## Suivi des progrès 📅  
+Je partagerai régulièrement des mises à jour sur le processus de développement, notamment :  
+- Les étapes clés atteintes 🏁  
+- Les défis rencontrés et leurs solutions 💡  
+- Des extraits de code accompagnés d'explications 📝  
 
-👉 Si vous souhaitez suivre le projet **en direct** ? Rejoignez le **[Serveur Discord](https://discord.gg/j6qHgqWg5J)**.  
+👉 Vous souhaitez suivre le projet **en direct** ? Rejoignez le **[Serveur Discord](https://discord.gg/j6qHgqWg5J)** !
