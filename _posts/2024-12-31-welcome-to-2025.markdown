@@ -4,7 +4,7 @@ title:  "En avant 2025, et les bonnes résolutions. 🚀"
 date:   2024-12-31 17:00:00 +0100
 categories: AtomOrganization update
 ---
-Je suis ravi d’annoncer le début du développement de mon propre moteur de jeu en C++, **l'AtomEngine** ⚛️ !  
+Je commence le développement de mon propre moteur de jeu en C++, **l'AtomEngine** ⚛️ !  
 
 Pour le moment, il sera orienté **2D** et conçu sur mesure pour donner vie à un jeu qui me trotte dans la tête depuis un moment.
 
