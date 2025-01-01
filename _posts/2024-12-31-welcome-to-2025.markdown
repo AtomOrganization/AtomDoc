@@ -4,34 +4,20 @@ title:  "Welcome to the year 2025 and the game engine AtomEngine!"
 date:   2024-12-31 17:00:00 +0100
 categories: AtomOrganization update
 ---
-# Let’s Go 2025! New Year’s Resolutions in Action 🚀
+# En avant 2025, et les bonnes résolutions 🚀
 
-I’m excited to announce that I’m starting the development of my **own game engine in C++**! 🎮  
-For now, it will focus on **2D** and will be tailored to create a game that’s been on my mind for a while.  
+Je suis ravi d’annoncer le début du développement de mon **propre moteur de jeu en C++** ! 🎮  
+Pour le moment, il sera orienté **2D** et conçu sur mesure pour donner vie à un jeu qui me trotte dans la tête depuis un moment.
 
-## Project Goals 🎯
-1. **Learn C++**: This project is primarily a learning journey to deepen my understanding of C++.
-2. **Build a Game Engine**: Create a functional and customizable 2D game engine from scratch.
-3. **Develop a Game**: Use the engine to bring my game idea to life.
+## Objectifs du projet 🎯
+1. **Apprendre le C++** : Ce projet est avant tout un voyage d’apprentissage pour approfondir ma maîtrise du C++.
+2. **Créer un moteur de jeu** : Développer un moteur de jeu 2D fonctionnel et personnalisable, entièrement à partir de zéro.
+3. **Développer un jeu** : Utiliser ce moteur pour réaliser un jeu.
 
-## Progress Updates 📅
-I’ll be sharing regular updates on the development process, including:
-- Milestones achieved 🏁
-- Challenges faced and solutions 💡
-- Code snippets and explanations 📝
+## Suivi des progrès 📅
+Je partagerai régulièrement des mises à jour sur le processus de développement, notamment :
+- Les étapes clés atteintes 🏁
+- Les défis rencontrés et leurs solutions 💡
+- Des extraits de code et leurs explications 📝
 
-## Documentation & Public Release 📖
-The **documentation** for the game engine will be hosted on this site, providing detailed guides, API references, and tutorials.  
-Once I feel the engine has reached a **sufficient level of maturity**, I’ll make it **publicly available** for others to use and contribute to. Stay tuned for updates on its release! 🌐
-
-## Join the Community 🚀
-Want to follow the progress **live** or get involved in discussions? Join my **Discord server**!  
-👉 [https://discord.gg/j6qHgqWg5J](https://discord.gg/j6qHgqWg5J)  
-
-## Bonus Content 📚
-Alongside the project updates, I’ll also post articles on various topics related to **computer programming**, such as:
-- Game development tips 🕹️
-- C++ best practices 🖥️
-- General programming insights 🤓
-
-Stay tuned for more! Let’s make 2025 a year of growth and creativity. 🌟
+👉 Si vous souhaitez suivre le projet **en direct** ? Rejoignez le **[Serveur Discord](https://discord.gg/j6qHgqWg5J)**.  
